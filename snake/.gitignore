@@ -1,0 +1,4 @@
+/.idea/
+/snake/bin/
+/snake/obj/
+*.csproj
